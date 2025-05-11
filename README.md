@@ -1,23 +1,32 @@
 # 🔐 Elijah Olson – Cybersecurity & GRC Professional
 
-Hello! I'm Elijah Olson, an IT and cybersecurity professional with a passion for **governance, risk, and compliance (GRC)**. I bring a background in IT operations and cybersecurity support with a strategic pivot toward GRC leadership. This GitHub showcases practical, real-world-aligned projects that reflect my professional growth and industry interests.
+Welcome! I'm Elijah Olson—a cybersecurity professional bridging technical leadership with governance, risk, and compliance (GRC) strategy. With a First Class Honours B.Sc. in Cybersecurity and certifications including Security+, CySA+, SSCP, and ITIL, I bring a strong foundation in IT service delivery and a focused pivot toward risk-informed cybersecurity leadership.
+
+This GitHub is a reflection of my professional development and passion for building secure, audit-ready systems through practical, real-world-aligned tools and documentation.
+
+---
 
 ## 📂 Featured Content
-- **Risk Registers** – Aligned with NIST, HIPAA, ISO 27001 frameworks
-- **Security Policies** – Acceptable Use, Incident Response, Access Controls
-- **Audit Checklists & Compliance Mappings**
-- **Learning Journals** – Weekly summaries of GRC concepts and insights
-- **Automation Scripts** – Lightweight tools to support GRC operations
+- **Risk Registers** – Structured around NIST CSF, HIPAA, and ISO/IEC 27001 frameworks  
+- **Security Policies** – Including Acceptable Use, Incident Response, and Access Control policies  
+- **Audit Checklists & Compliance Mappings** – To support internal readiness and external alignment  
+- **Automation Scripts** – PowerShell and lightweight tools for GRC support and task automation
+
+---
 
 ## 🎓 Credentials
-- B.S. in Cybersecurity, Summa Cum Laude
-- CompTIA Security+ Certified
-- Background in healthcare IT and enterprise-level support environments
+- B.Sc. in Cybersecurity – First Class Honours (Summa Cum Laude)  
+- CompTIA Security+, CySA+, SSCP, CC, ITIL v4 
+- Experience in enterprise healthcare IT, access control remediation, and audit-aligned service management
+
+---
 
 ## 🚀 Career Goals
-I’m focused on transitioning into mid-level GRC and compliance roles and growing into cybersecurity leadership. Long-term goal: becoming a CISO.
+I’m actively pursuing mid-level GRC, risk, and compliance roles where I can contribute to policy development, audit preparation, and risk strategy. My long-term goal is to grow into an executive cybersecurity leadership role—shaping security governance at scale.
+
+---
 
 ## 🤝 Let’s Connect
-I'm always open to learning and collaboration with professionals working in GRC, audit, or cyber strategy roles—especially across the U.S. and Ireland.
+I’m always open to collaborating with cybersecurity professionals, GRC practitioners, and compliance leaders—especially those across Ireland and the U.S. If you're building secure, resilient organizations, let’s start a conversation.
 
-📍 [LinkedIn Profile](https://www.linkedin.com/in/elijah-i-olson)
+📍 [Connect with me on LinkedIn](https://www.linkedin.com/in/elijah-i-olson)
